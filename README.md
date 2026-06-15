@@ -30,8 +30,8 @@ mysql -u root -p < setup_db.sql
 
 Or paste contents of `setup_db.sql` into MySQL Workbench / command line.
 
-> Default credentials used: host=`localhost`, user=`root`, password=`root`  
-> Change in `parking.py` line 7–11 if yours differ.
+> Default credentials used: host=`localhost`, user=`root`, port=`3307`  
+> Change in `parking.py` line 6–13 if yours differ.
 
 ### 3. Run the program
 
