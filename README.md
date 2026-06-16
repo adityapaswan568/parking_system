@@ -13,7 +13,11 @@ Python + MySQL project for managing parking records and vehicle details.
 | mysql-connector | latest       |
 
 ---
-
+### Clone this Repository
+```bash
+git clone https://github.com/adityapaswan568/parking_system.git
+cd parking_system
+```
 ## Setup Steps
 
 ### 1. Install Python dependency
